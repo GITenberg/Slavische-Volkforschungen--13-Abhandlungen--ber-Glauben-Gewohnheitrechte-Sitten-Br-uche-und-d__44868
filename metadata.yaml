@@ -1,0 +1,35 @@
+_repo: Slavische-Volkforschungen--13-Abhandlungen--ber-Glauben-Gewohnheitrechte-Sitten-Br-uche-und-d__44868
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44868-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Krauss, Friedrich S. (Friedrich Salomo)
+    aliases:
+    - Krauss, Salomon Friedrich
+    - Краусс, Фридрих С.
+    - Kraus, Friedrich S.
+    - Krauss, Friedrich Salomo
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '42957'
+    url: http://www.gutenberg.org/2009/agents/42957
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Salomon_Krauss
+description: ''
+gutenberg_issued: '2014-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44868'
+  lccn: 08018711
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavs -- Folklore'
+- !lcsh 'Folklore -- Bosnia and Herzegovina'
+- !lcc 'GR'
+title: "Slavische Volkforschungen\r\nAbhandlungen über Glauben, Gewohnheitrechte,\
+  \ Sitten, Bräuche und die Guslarenlieder der Südslaven"
+url: http://www.gutenberg.org/ebooks/44868
