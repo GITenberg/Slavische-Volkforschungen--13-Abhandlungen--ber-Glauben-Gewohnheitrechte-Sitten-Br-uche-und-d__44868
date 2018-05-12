@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42957
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Salomon_Krauss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44868#Slavische-Volkforschungen--13-Abhandlungen--ber-Glauben-Gewohnheitrechte-Sitten-Br-uche-und-d_
 gutenberg_issued: '2014-02-10'
 gutenberg_type: Text
 identifiers:
